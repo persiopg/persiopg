@@ -1,6 +1,6 @@
 ### Ola!! Aqui é o Persio, seja muito bem-vindo(a)!!!
 
-- 🔭 Atualmente não estou trabalhando
+- 🔭 Atualmente trabalhando como estagiario em desenvolvedor front-end na Sisagro.
 - 🌱 Aprendendo js e react
 
 <div align="center">
