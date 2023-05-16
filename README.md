@@ -1,6 +1,6 @@
 ### Ola!! Aqui é o Persio, seja muito bem-vindo(a)!!!
 
-- 🔭 estagiario desenvolvedor react.Js na Sisagro.
+- 🔭 estagiario dev react.Js na Sisagro.
 - 🌱 Aprendendo React com Typescript, axios e gerenciamento de estados
 
 
