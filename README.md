@@ -1,7 +1,7 @@
 ### Ola!! Aqui é o Persio, seja muito bem-vindo(a)!!!
 
-- 🔭 Atualmente trabalhando como estagiario em desenvolvedor front-end na Sisagro.
-- 🌱 Aprendendo js e react
+- 🔭 estagiario desenvolvedor react.Js na Sisagro.
+- 🌱 Aprendendo React com Typescript, axios e gerenciamento de estados
 
 
 
